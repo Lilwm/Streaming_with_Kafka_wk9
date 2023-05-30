@@ -1,0 +1,7 @@
+{
+"transaction_id": "12345",
+"sender_phone_number": "256777123456",
+"receiver_phone_number": "256772987654",
+"transaction_amount": 100000,
+"transaction_time": "2023-04-19 12:00:00"
+}
